@@ -24,22 +24,22 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ching-Yen Tseng"
-  pronouns         : "he/him"  # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "National Taipei University of Technology"
   location         : "Taipei, Taiwan"
-  employer         : ""
+  employer         : 
   uri              : # URL
   email            : "mail@tseng-school.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : ############
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,14 +47,14 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "chingyen06"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : # Replace this with you Bluesky username
+  facebook         : "ceng.jing.yan"  # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "靖諺-曾-bb34b52b9"  # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
