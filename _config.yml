@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-TW"
+locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Ching-Yen Tseng"
 title_separator          : "-"
@@ -23,13 +23,13 @@ repository               : "chingyen06/chingyen06.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Ching-Yen Tseng"
+  pronouns         : "he/him"  # example: "she/her"  
+  bio              : "National Taipei University of Technology"
+  location         : "Taipei, Taiwan"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mail@tseng-school.com" 
 
   # Academic websites
   academia         : # URL
