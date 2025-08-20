@@ -40,13 +40,13 @@ Skills
 ======
 * Programming Languages: C, C++, Python
 * Frameworks & Libraries: Hugging Face Transformers
-* Natural Language Processing:
-  * Areas of Interest: Large Language Models (LLMs), Semantic Analysis, Adversarial Attacks, Prompt Engineering
-  * Fine-tuning Methods: LoRA (Low-Rank Adaptation)
-* Data Analysis & Research:
-  * Methodology: Adversarial Framework, Red Teaming, Prompt Typology
-  * Data Analysis: Statistical Analysis
-  * Research Skills: Academic Writing, Literature Review, Experiment Design
+* Natural Language Processing
+  * Areas of Interest:  Large Language Models (LLMs), Semantic Analysis, Adversarial Attacks, Prompt Engineering
+  * Fine-tuning Methods:  LoRA (Low-Rank Adaptation)
+* Data Analysis & Research
+  * Methodology:  Adversarial Framework, Red Teaming, Prompt Typology
+  * Data Analysis:  Statistical Analysis
+  * Research Skills:  Academic Writing, Literature Review, Experiment Design
 
 Publications
 ======
