@@ -38,24 +38,31 @@ None
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+C, C++, Python
+* Frameworks & Libraries
+Hugging Face Transformers
+* Natural Language Processing:
+  * Areas of Interest
+Large Language Models (LLMs), Semantic Analysis, Adversarial Attacks, Prompt Engineering
+  * Fine-tuning Methods
+LoRA (Low-Rank Adaptation)
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+<!--  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
+None
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
+<!--  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+-->
+None
   
 Teaching
 ======
