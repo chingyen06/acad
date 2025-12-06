@@ -2,9 +2,9 @@
 title: "Paper Title Number 4"
 collection: publications
 category: conferences
-permalink: /publication/2222-22-22-paper-title-number-2
+permalink: /publication/2000-02-02-paper-title-number-2
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2222-22-22
+date: 2000-02-02
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
